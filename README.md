@@ -19,3 +19,9 @@ Description:A Python-based voice assistant that takes voice commands and respond
 File Name: bmi.py
 
 Description:A command-line Python application that calculates Body Mass Index (BMI) using user input. It categorizes BMI into health ranges and provides suggestions based on the result.
+
+ Task 3: Random Password Generator
+
+File Name: password_genertaor.py
+
+Description:Python-based GUI application that generates secure random passwords using Tkinter. Users can customize password length and character types, with features like input validation and clipboard support.
