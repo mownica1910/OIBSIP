@@ -25,3 +25,9 @@ Description:A command-line Python application that calculates Body Mass Index (B
 File Name: password_genertaor.py
 
 Description:Python-based GUI application that generates secure random passwords using Tkinter. Users can customize password length and character types, with features like input validation and clipboard support.
+
+Task 4:weather app
+
+File Name:weather.py
+
+Description:A Python-based weather application that fetches real-time weather data using city names. Displays temperature, weather conditions, humidity, and other key metrics in a simple interface
